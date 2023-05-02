@@ -11,8 +11,8 @@
 
 ### Skills: HTML5, CSS3(SASS), Javascript(ES5), Node.js, Express.js, Bootstrap, JQuery, WordPress 
 
-- 🔭 I’m currently looking for my first front end web development position
-- 🌱 I’m currently learning React
-- ⚡ Fun fact: ...I love reading the obituary section of the local newspaper
+- I’m currently looking for my first front end web development position
+- I’m currently learning React
+- Fun fact: ...I love reading the obituary section of the local newspaper
 
 
