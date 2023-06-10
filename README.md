@@ -9,10 +9,9 @@
 <br />
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-### Skills: HTML5, CSS3(SASS), Javascript(ES5), Node.js, Express.js, Bootstrap, JQuery, WordPress 
+### Skills: HTML5, CSS3(SASS), Javascript(ES5), Node.js, Express.js, Bootstrap, JQuery, WordPress, React.js, Vite.js 
 
 - I’m currently looking for my first front end web development position
-- I’m currently learning React
-- Fun fact: ...I love reading the obituary section of the local newspaper
+- Fun fact: ...I love to play fetch
 
 
